@@ -1,6 +1,5 @@
 
     <article>
-        <p><?php echo get_permalink(); ?></p>
         <h2><a href="<?php echo get_permalink(); ?>"><?php the_title(); ?></a></h2>
         <div><?php the_time( get_option( 'date_format' ) ); ?></div>
         <a href="<?php echo get_permalink(); ?>">
