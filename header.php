@@ -24,4 +24,3 @@
 <p><a href="http://localhost:8000/index.php/">le logo du blog ici</a></p>
 <h1><a href="http://localhost:8000/index.php/">Titre du blog</a></h1>
 
-<p>>>>avant ça c'est le header.php<<<</p>

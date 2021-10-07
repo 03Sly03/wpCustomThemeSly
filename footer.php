@@ -1,4 +1,4 @@
-<P>copyright 2021 by SLY debut et fin du footer</P>
+<P>copyright 2021 © by SLY</P>
 
 </body>
 </html>

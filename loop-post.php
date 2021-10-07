@@ -1,5 +1,4 @@
 
-        <p>le loop bidule post début</p>
     <article>
         <p><?php echo get_permalink(); ?></p>
         <h2><a href="<?php echo get_permalink(); ?>"><?php the_title(); ?></a></h2>
@@ -19,4 +18,3 @@
     the_terms( $post->ID, 'category', '<ul><li>', '</li><li>', '</li></ul>' );
     ?>
     </article>
-    <p>le loop post fin</p>

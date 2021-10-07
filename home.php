@@ -2,8 +2,6 @@
 
 get_header();
 
-echo "C'est la home ici qui commence";
-
 $args = array(
     'post_type' => 'page',
     'pagename' => 'actus',
@@ -27,7 +25,5 @@ if ( have_posts() ):
 
     endwhile;
 endif;
-
-echo "La home ce fini ici";
 
 get_footer();

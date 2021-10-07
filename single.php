@@ -1,7 +1,5 @@
 <?php
 
-echo "le fichier single.php";
-
 get_header();
 
 if ( have_posts() ): 
